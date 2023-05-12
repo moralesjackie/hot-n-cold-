@@ -10,5 +10,4 @@
 
 * Usa la fórmula: F = (C*9/5)+32, donde C es la temperatura previa leída
 
-*Imprime el resultado, en este caso sería F
-Fin
+
